@@ -1,1 +1,48 @@
 ASP.net course:
+
+
+Master Pages:
+  Template that contains re-usable headers & menus.
+Content pages:
+  Grid View
+  Text Box
+  
+Navigation Controls:
+
+relative URL
+
+Absolute URL
+
+
+
+
+ SQL ------------------------------------------------------------
+ 
+ Tables comprised of rows and columns.
+ 
+ column defines the datatype and value for entries
+ A row represents an entry of data.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
